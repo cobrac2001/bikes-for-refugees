@@ -131,6 +131,31 @@ button {
 	padding: 2rem 0;
 	box-sizing: border-box;
 	border: 1px solid #999;
+	}
+	.article-boxes{
+		display: flex;
+	}
+
+	p{
+		margin-top: 0;
+		margin-bottom: 1rem;
+	}
+	p {
+		display: block;
+		margin-block-start: 1em;
+		margin-block-end: 1em;
+		margin-inline-start: 0px;
+		margin-inline-end: 0px;
+	}
+/* sudebar images */
+.img-fluid{
+	float: left;
+	height: 90px;
+	width: 90px;
+	margin-right: 10px;
+}
+.img-fluid{
+	max-width: 100%;
 }
 
 
