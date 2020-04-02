@@ -9,6 +9,11 @@
 html,
 body {
 	font-family: "Source Sans Pro","Helvetica Neue",Arial,sans-serif;
+	font-size: 1.1rem;
+	font-weight: 600;
+	line-weight 1.5em;
+
+
 }
 
 button {
@@ -118,6 +123,14 @@ button {
 
 .article__read-more:last-child {
 	margin-bottom: 0;
+}
+.container{
+	margin: 1rem auto;
+	width: auto;
+	max-width: 100%;
+	padding: 2rem 0;
+	box-sizing: border-box;
+	border: 1px solid #999;
 }
 
 /* Footer */
