@@ -77,6 +77,17 @@ button {
     color: rgb(250, 250, 250);
 
 }
+button {
+    background-color: rgb(201, 103, 57);
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    margin: 2px;
+    border-radius: 3px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
 
 /* Headings */
 .heading-underline {
@@ -140,17 +151,6 @@ button {
 
 	
 
-	p{
-		margin-top: 0;
-		margin-bottom: 1rem;
-	}
-	p {
-		display: block;
-		margin-block-start: 1em;
-		margin-block-end: 1em;
-		margin-inline-start: 0px;
-		margin-inline-end: 0px;
-	}
 /* sudebar images */
 .img-fluid{
 	float: left;
